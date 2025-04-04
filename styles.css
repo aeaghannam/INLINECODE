@@ -7,3 +7,7 @@ body {
     width: 100%;
     height: auto;
 }
+
+.highlight-county {
+    fill: #FFCCCB; /* light red */
+}
